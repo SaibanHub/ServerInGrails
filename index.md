@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎使用赛伴软件
 
 You can use the [editor on GitHub](https://github.com/SaibanHub/ServerInGrails/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
